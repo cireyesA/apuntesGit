@@ -1,4 +1,9 @@
 ## Curso Git desde cero
+###Zonas de Git
+1. Directorio de trabajo
+2. Area de preparacion
+3. Directorio Git
+
 ### Flujo de trabajo básico en Git
 1)MOdificas una serie de archivos en tu drirectorio de trabajo.
 2)Preparas los archivos, añadiendo a tu áerea de preparación.
