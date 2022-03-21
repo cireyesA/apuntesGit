@@ -14,3 +14,5 @@ preparación  y almacena esa copia instantánea de manera permanente en tu direc
 1. git config --global user.name "Carlos Reyes"
 2. git config --global user.email "cireyes.inegeniero@gmail.com"
 3. git config --list
+
+Esta línea fue creada en la rama master
